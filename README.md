@@ -24,3 +24,7 @@ A logistic model is fitted onto the training data. By checking the p-value of ea
 ## Results
 The model have a pretty high ROC-AUC of 0.80, meaning it is much better than a random guess. However, unfortunately it is not very precise and has a very low recall. Specifically, it has a precision of 0.516 and a recall of 0.047 when predicting class 1 (i.e. default). That means when the model is predicting class 1, 51.6% of the time it is right, and out of 1000 true class 1 predictions, it only captures 47 of those. 
 
+<img width="581" height="565" alt="image" src="https://github.com/user-attachments/assets/1bcaa5ba-0f8e-4fd7-b3ba-41fd1574995e" />
+
+<img width="739" height="556" alt="image" src="https://github.com/user-attachments/assets/e9156039-5785-4f99-86cd-d5148cbe5907" />
+
