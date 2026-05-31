@@ -1,7 +1,7 @@
 # Credit-Risk-Analysis
 
 ## Dataset
-The data is from an old Kaggle competition (https://www.kaggle.com/code/nishchalpandey/give-me-some-credit-project). It contains 15000 rows and 10 features. The features are:
+The data is from an old Kaggle competition (https://www.kaggle.com/competitions/GiveMeSomeCredit/overview). It contains 15000 rows and 10 features. The features are:
 - RevolvingUtilizationOfUnsecuredLines: Total balance on credit cards and personal lines of credit except real estate and no installment debt like car loans divided by the sum of credit limits
 - age: Age of borrower in years
 - NumberOfTime30-59DaysPastDueNotWorse: Number of times borrower has been 30-59 days past due but no worse in the last 2 years.
